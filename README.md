@@ -1,2 +1,2 @@
-#live link
-fanatech.netlify.app
+### live link
+https://fanatech.netlify.app/
